@@ -3,7 +3,7 @@
 
 
 .background-img {
-    background-image: url(/images/backgrounds/background-dashboard.png);
+    background-image: url(./images/backgrounds/background-dashboard.png);
     background-repeat: no-repeat;
     background-position: center center;
     -webkit-background-size: cover;
